@@ -1,6 +1,6 @@
 {
-    "name": "netgasoline/highlight-js",
-    "description": "Use highlightjs, a syntax highlighter on your magento 2 frontend store.",
+    "name": "netgasoline/fast-faq",
+    "description": "A simple faq extension for magento 2",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
@@ -10,7 +10,7 @@
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
-            "Netgasoline\\Highlightjs\\": ""
+            "Netgasoline\\Fastfaq\\": ""
         }
     }
 }

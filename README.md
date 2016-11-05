@@ -1,14 +1,13 @@
-# [Net Gasoline](http://net-gasoline.com/) highlight.js Extension for Magento 2
+# [Net Gasoline](http://net-gasoline.com/) fast faq Extension for Magento 2
 
-Use syntax highlighter highlight.js on your [Magento 2](http://magento.com/) Store.
+A simple faq for [Magento 2](http://magento.com/) Store.
 
 
 ## Demo ad install
- English : http://www.net-gasoline.com/en/magento-2/toolbox/highlight-js.html
+ English : http://www.net-gasoline.com/en/magento-2/toolbox/fast-faq.html
  
- French : http://www.net-gasoline.com/fr/magento-2/outils/highlight-js.html
+ French : http://www.net-gasoline.com/fr/magento-2/outils/fast-faq.html
  
-
 ## Requirements
   * Magento Community Edition 2.x 
   * Not tested on Enterprise Edition

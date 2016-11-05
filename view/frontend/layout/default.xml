@@ -7,8 +7,7 @@
 -->
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
     <head>
-        <script src="Netgasoline_Highlightjs::js/highlight.js"/>
-        <script src="Netgasoline_Highlightjs::js/highlight.pack.js"/>
-        <css src="Netgasoline_Highlightjs::css/styles/monokai-sublime.css"/>
+        <script src="Netgasoline_Fastfaq::js/fast-faq.js"/>
+        <css src="Netgasoline_Fastfaq::css/fast-faq.css"/>
     </head>
 </page>

@@ -1,0 +1,5 @@
+#fast-faq dt, #fast-faq dd { padding: 0 0 0 5px }
+#fast-faq dt { font-size:1.5em; color: #d93600; cursor: pointer; height: 37px; line-height: 37px; margin: 0 0 10px 0px; background-color:#DEDFCF; border-radius: 3px;}
+#fast-faq dd { font-size: 1.2em; margin: 0 0 20px 25px}
+#fast-faq dt {}
+#fast-faq .expanded {}

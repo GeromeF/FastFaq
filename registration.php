@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Netgasoline_Highlightjs',
+    'Netgasoline_Fastfaq',
     __DIR__
 );
